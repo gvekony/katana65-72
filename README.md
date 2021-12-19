@@ -6,15 +6,15 @@ The project included the PCB design done in KiCad EDA, integration of a Elite-C 
 
 ## Layout
 
-![layout](https://github.com/gvekony/katana65-72/raw/master/layout/katana65-72_rev3_keyboard-layout.png)
+![layout](https://github.com/gvekony/katana65-72/blob/main/layout/katana65-72_rev3_keyboard-layout.png)
 
 ## Final Product
 
-![pcb_bottom](https://github.com/gvekony/katana65-72/raw/master/images/pcb_bottom.png)
+![pcb_bottom](https://github.com/gvekony/katana65-72/blob/main/images/pcb_bottom.png)
 
-![top_view](https://github.com/gvekony/katana65-72/raw/master/images/top_view.png)
+![top_view](https://github.com/gvekony/katana65-72/blob/main/images/top_view.png)
 
-![side_view](https://github.com/gvekony/katana65-72/raw/master/images/side_view.png)
+![side_view](https://github.com/gvekony/katana65-72/blob/main/images/side_view.png)
 
 # License and source information
 
