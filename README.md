@@ -16,7 +16,14 @@ The project included the PCB design done in KiCad EDA, integration of a Elite-C 
 
 ![side_view](https://github.com/gvekony/katana65-72/blob/main/images/side_view.png)
 
-# License and source information
+## References
+
+* https://matt3o.com/anatomy-of-a-keyboard/
+* https://colemakmods.github.io/ergonomic-mods/angle.html
+* https://github.com/mtei/SemiErgo_Layout
+
+
+## License and source information
 
 [MIT](https://github.com/gvekony/katana65-72/blob/master/LICENSE) &copy; **Gergo Vekony**
 
