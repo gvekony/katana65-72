@@ -1,6 +1,6 @@
 # Katana 65/72 Mechanical Keyboard
 
-A custom mechanical keyboard built upon the idea of symmetric ergonomic stagger of Katana layout (![example board By Xah Lee](http://xahlee.info/kbd/katana60_keyboard.html))  combined with the classic 65% layout found on ![Leopold keyboards](https://global.leopold.co.kr/). As both Katana layout and split 65% keyboards are rare and commercially unavailable it seemed a good opportunity to receive first hand experience of its usability and to provide some entertainment during the COVID19 curfew of 2020.
+A custom mechanical keyboard built upon the idea of symmetric ergonomic stagger of Katana layout ([example board By Xah Lee](http://xahlee.info/kbd/katana60_keyboard.html))  combined with the classic 65% layout found on [Leopold keyboards](https://global.leopold.co.kr/). As both Katana layout and split 65% keyboards are rare and commercially unavailable it seemed a good opportunity to receive first hand experience of its usability and to provide some entertainment during the COVID19 curfew of 2020.
 
 The project included the PCB design done in KiCad EDA, integration of a Elite-C USB controller, design of the mechanical components done in Fusion 360 and custom QMK firmware implementation. The keyboard is built upon two layers of laser cut stainless steel plates as the CNC fabrication costs of a wooden/plastic case were a bit too high. :)
 
